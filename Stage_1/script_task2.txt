@@ -12,12 +12,10 @@
   585  conda config --add channels bioconda
   586  conda install bwa
   589  conda install blast
-  590  blastn -version
   591  conda install samtools
   592  conda install bedtools
   593  conda install spades.py
   594  conda install bcftools
   595  conda install fastp
   596  conda install multiqc
-  597  history >>script_task2
   598  history >>script_task2.txt
